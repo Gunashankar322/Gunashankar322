@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gunashankar
 - 👀 I’m interested in learning new things...
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate with JPMorgan Chase
+- 💞️ I’m looking to collaborate with any good company
 - 📫 How to reach me "Hey you can reach me at @gunashankar3212@gmail.com"
 
 <!---
